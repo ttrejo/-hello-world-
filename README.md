@@ -2,4 +2,7 @@
 =============
 
 "My first repository on GitHub."
-Hello cruel world!
+Say Hello cruel world!
+
+Assignment 1
+
